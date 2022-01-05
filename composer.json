@@ -1,0 +1,20 @@
+{
+    "name": "mrgoodbytes8667/kernel-pack",
+    "description": "A pack whose recipe sets up a kernel with alternate cache and log paths",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MrGoodBytes",
+            "email": "bytes@goodbytes.live"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "symfony/framework-bundle": "^5.2 | ^6.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
